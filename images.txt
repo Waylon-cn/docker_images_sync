@@ -1,1 +1,1 @@
-bitnami/postgresql:15.3.0-debian-11-r7
+alpine:latest
