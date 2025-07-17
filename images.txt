@@ -1,1 +1,1 @@
-alpine/curl:latest
+ubuntu/squid:latest
