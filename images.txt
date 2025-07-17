@@ -1,1 +1,1 @@
-ubuntu:squid
+ubuntu/squid:latest
