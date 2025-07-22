@@ -1,1 +1,1 @@
-ubuntu/squid:latest
+docker.io/bitnami/attu:2.5.12-debian-12-r1
