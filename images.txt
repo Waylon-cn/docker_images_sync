@@ -1,1 +1,1 @@
-ghcr.io/open-telemetry/demo:2.0.1-flagd-ui
+ghcr.io/open-telemetry/demo:2.0.1-fraud-detection
