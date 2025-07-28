@@ -1,1 +1,1 @@
-quay.io/prometheus/prometheus:v3.1.0
+ghcr.io/open-telemetry/demo:2.0.1-accounting
