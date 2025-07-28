@@ -1,1 +1,1 @@
-n8nio/n8n:1.104.1
+otel/opentelemetry-collector-contrib:0.120.0
