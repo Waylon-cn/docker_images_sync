@@ -1,1 +1,1 @@
-busybox:latest
+ginnux/k8s-mcp-server:1.0.14
