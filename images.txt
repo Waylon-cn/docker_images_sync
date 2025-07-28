@@ -1,1 +1,1 @@
-n8nio/n8n:1.99.1
+docker.io/grafana/grafana:11.5.2
