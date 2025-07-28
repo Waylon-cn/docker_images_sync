@@ -1,1 +1,1 @@
-ghcr.io/open-telemetry/demo:2.0.1-ad
+ghcr.io/open-telemetry/demo:2.0.1-cart
