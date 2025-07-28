@@ -1,1 +1,1 @@
-ghcr.io/open-telemetry/demo:2.0.1-email
+ghcr.io/open-feature/flagd:v0.11.1
