@@ -1,1 +1,1 @@
-valkey/valkey:7.2-alpine
+opensearchproject/opensearch:2.19.0
