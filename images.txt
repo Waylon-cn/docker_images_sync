@@ -1,1 +1,1 @@
-mcp/kubernetes:latest
+alpine:3.14
