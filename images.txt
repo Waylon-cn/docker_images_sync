@@ -1,1 +1,1 @@
-ghcr.io/coroot/coroot-node-agent:1.25.5
+ghcr.io/coroot/prometheus:2.55.1-ubi9-0
