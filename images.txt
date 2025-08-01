@@ -1,1 +1,1 @@
-ghcr.io/coroot/prometheus:2.55.1-ubi9-0
+mcp/redis:latest
