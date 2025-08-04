@@ -1,1 +1,1 @@
-mcp/redis:latest
+mcp/postgres:latest
