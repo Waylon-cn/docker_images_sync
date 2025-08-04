@@ -1,1 +1,1 @@
-mcp/postgres:latest
+bytebase/dbhub:0.11.2
