@@ -1,1 +1,1 @@
-bytebase/dbhub:0.11.2
+mcp/grafana:latest
