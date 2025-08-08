@@ -1,1 +1,1 @@
-fengzhichao/chromadb-admin:latest
+fengzhichao/chromadb-admin:0.0.2
