@@ -1,1 +1,1 @@
-n8nio/n8n:1.105.3
+chromadb/chroma:1.0.16
