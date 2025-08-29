@@ -1,1 +1,1 @@
-jamesbrink/mcp-coroot:latest
+ghcr.io/eb-k8s/kubeaver/kubeaver_offline:v1.32.4
