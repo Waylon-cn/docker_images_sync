@@ -1,1 +1,1 @@
-registry.k8s.io/sig-storage/volume-data-source-validator:v1.0.0
+sonobuoy/sonobuoy:v0.57.2
