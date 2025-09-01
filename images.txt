@@ -1,1 +1,1 @@
-sonobuoy/sonobuoy:v0.57.2
+sonobuoy/systemd-logs:v0.4
