@@ -1,1 +1,1 @@
-registry.k8s.io/e2e-test-images/nonroot:1.4
+registry.k8s.io/e2e-test-images/perl:5.26
