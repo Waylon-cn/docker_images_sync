@@ -1,1 +1,1 @@
-registry.k8s.io/e2e-test-images/regression-issue-74839:1.2
+registry.k8s.io/e2e-test-images/resource-consumer:1.13
