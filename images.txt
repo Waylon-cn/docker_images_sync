@@ -1,1 +1,1 @@
-registry.k8s.io/e2e-test-images/resource-consumer:1.13
+registry.k8s.io/e2e-test-images/sample-apiserver:1.29.2
