@@ -1,1 +1,1 @@
-sonobuoy/systemd-logs:v0.4
+docker.io/bitnami/kafka:4.0.0-debian-12-r10
