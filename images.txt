@@ -1,0 +1,1 @@
+ghcr.io/waylon-cn/mcp-coroot/mcp-coroot:v1.0
