@@ -1,1 +1,1 @@
-bitnami/influxdb:3.4.1-debian-12-r0
+ghcr.io/waylon-cn/mcp-coroot/mcp-coroot:v1.0
