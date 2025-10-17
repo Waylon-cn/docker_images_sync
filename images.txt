@@ -1,1 +1,1 @@
-ghcr.io/waylon-cn/mcp-coroot/mcp-coroot:v1.0
+ghcr.io/waylon-cn/email-mcp/email-mcp:v1.0
