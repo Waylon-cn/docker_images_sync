@@ -1,1 +1,1 @@
-ghcr.io/waylon-cn/email-mcp/email-mcp:v1.1
+ghcr.io/waylon-cn/email-mcp/email-mcp2:v1.3
