@@ -1,1 +1,1 @@
-ghcr.io/waylon-cn/mcp-ebkq:v1.0
+ghcr.io/waylon-cn/mcp-ebkq:v1.1
