@@ -1,1 +1,1 @@
-ghcr.io/waylon-cn/mcp-ebstaff:main-5719b53
+nacos/nacos-server:v3.0.0
