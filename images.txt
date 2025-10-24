@@ -1,1 +1,1 @@
-nacos/nacos-server:v3.0.0
+flux159/mcp-server-kubernetes:v2.9.7
