@@ -1,1 +1,1 @@
-ghcr.io/eb-k8s/kubeaver/kubeaver_offline:v1.33.5
+registry.k8s.io/conformance:v1.33.5
