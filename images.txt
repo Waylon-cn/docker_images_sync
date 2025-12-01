@@ -1,1 +1,1 @@
-flux159/mcp-server-kubernetes:v2.9.7
+ghcr.io/eb-k8s/kubeaver/kubeaver_offline:v1.33.5
