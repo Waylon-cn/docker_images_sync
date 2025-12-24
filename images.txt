@@ -1,1 +1,1 @@
-registry.k8s.io/conformance:v1.27.6
+nacos/nacos-server:v3.1.1
