@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.4.1-local
+core.harbor.k8s.ebupt.com/ccapp-ai/n8nio/n8n
