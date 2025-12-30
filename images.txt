@@ -1,1 +1,1 @@
-opencost/opencost:1.118.0
+opencost/opencost:test-b96ebfc
