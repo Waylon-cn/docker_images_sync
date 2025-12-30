@@ -1,1 +1,1 @@
-opencost/opencost:test-b96ebfc
+ghcr.io/opencost/opencost:test-b96ebfc
