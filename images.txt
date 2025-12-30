@@ -1,1 +1,1 @@
-opencost/opencost-ui:1.118.0@sha256:571f87e528ea563a5071b380df624a383968b5e20360e45dc1a2939c0024d073
+opencost/opencost:1.118.0
