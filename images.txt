@@ -1,1 +1,1 @@
-n8nio/n8n:2.1.4
+opencost/opencost:1.118.0@sha256:c1a08767fe3c3b2964a75885c145bae0cba32225c0b4c1e0382a77566aef93e9
