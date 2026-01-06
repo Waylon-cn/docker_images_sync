@@ -1,1 +1,1 @@
-ghcr.io/opencost/opencost-ui:test-4ab10c1
+mall/mall-admin:1.0-SNAPSHOT
