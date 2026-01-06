@@ -1,1 +1,1 @@
-macrodocker/mall-admin:1.0-SNAPSHOT
+macrodocker/mall-search:1.0-SNAPSHOT
