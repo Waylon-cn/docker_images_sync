@@ -1,1 +1,1 @@
-macrodocker/mall-portal:1.0-SNAPSHOT
+macrodocker/mall-auth:1.0-SNAPSHOT
