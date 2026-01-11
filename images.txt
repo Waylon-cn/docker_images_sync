@@ -1,1 +1,1 @@
-wantcat/trendradar:latest
+wantcat/trendradar-mcp:latest
