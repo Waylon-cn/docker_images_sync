@@ -1,1 +1,1 @@
-macrodocker/mall-monitor:1.0-SNAPSHOT
+alpine/jmeter:5
