@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/7d/jmeter-slave:latest
+prom/mysqld-exporter:latest
