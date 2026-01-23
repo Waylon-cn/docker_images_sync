@@ -1,1 +1,1 @@
-ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-k8s:0.141.0
+quay.io/brancz/kube-rbac-proxy:v0.20.0
