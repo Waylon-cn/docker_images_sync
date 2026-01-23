@@ -1,1 +1,1 @@
-prom/mysqld-exporter:latest
+ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.141.0
