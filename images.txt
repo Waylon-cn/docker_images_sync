@@ -1,1 +1,1 @@
-bitnami/clickhouse-keeper:latest
+registry-1.docker.io/bitnami/clickhouse:25.3
