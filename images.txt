@@ -1,1 +1,1 @@
-quay.io/brancz/kube-rbac-proxy:v0.20.0
+bitnami/clickhouse:25.7.5-debian-12-r0
