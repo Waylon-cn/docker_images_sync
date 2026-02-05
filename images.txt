@@ -1,1 +1,1 @@
-registry-1.docker.io/bitnami/clickhouse:25.3
+clickhouse/clickhouse-server:25.12
