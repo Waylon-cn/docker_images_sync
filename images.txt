@@ -1,1 +1,1 @@
-docker.io/bitnami/clickhouse:latests
+bitnami/clickhouse-keeper:latest
